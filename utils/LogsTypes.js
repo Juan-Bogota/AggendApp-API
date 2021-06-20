@@ -1,0 +1,10 @@
+const LogsTypes = {
+    LOGIN: 'LOGIN USER',
+    CREATE_USER: 'CREATE NEW USER',
+    CREATE_TASK: 'CREATE NEW TASK',
+    UPDATE_STATUS_TASK: 'UPDATE_STATUS_TASK',
+    UPDATE_PROFILE: 'UPDATE PROFILE'
+  };
+  
+  export default LogsTypes;
+  
